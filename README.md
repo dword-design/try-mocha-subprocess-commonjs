@@ -1,27 +1,22 @@
 <!-- TITLE/ -->
-# try-mocha-execa-subprocess
+# try-mocha-subprocess-commonjs
 <!-- /TITLE -->
 
 <!-- BADGES/ -->
   <p>
-    <a href="https://npmjs.org/package/try-mocha-execa-subprocess">
+    <img src="https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue" alt="Linux macOS Windows compatible"><a href="https://github.com/dword-design/try-mocha-subprocess-commonjs/actions">
       <img
-        src="https://img.shields.io/npm/v/try-mocha-execa-subprocess.svg"
-        alt="npm version"
-      >
-    </a><img src="https://img.shields.io/badge/os-linux%20%7C%C2%A0macos%20%7C%C2%A0windows-blue" alt="Linux macOS Windows compatible"><a href="https://github.com/dword-design/try-mocha-execa-subprocess/actions">
-      <img
-        src="https://github.com/dword-design/try-mocha-execa-subprocess/workflows/build/badge.svg"
+        src="https://github.com/dword-design/try-mocha-subprocess-commonjs/workflows/build/badge.svg"
         alt="Build status"
       >
-    </a><a href="https://codecov.io/gh/dword-design/try-mocha-execa-subprocess">
+    </a><a href="https://codecov.io/gh/dword-design/try-mocha-subprocess-commonjs">
       <img
-        src="https://codecov.io/gh/dword-design/try-mocha-execa-subprocess/branch/master/graph/badge.svg"
+        src="https://codecov.io/gh/dword-design/try-mocha-subprocess-commonjs/branch/master/graph/badge.svg"
         alt="Coverage status"
       >
-    </a><a href="https://david-dm.org/dword-design/try-mocha-execa-subprocess">
-      <img src="https://img.shields.io/david/dword-design/try-mocha-execa-subprocess" alt="Dependency status">
-    </a><img src="https://img.shields.io/badge/renovate-enabled-brightgreen" alt="Renovate enabled"><br/><a href="https://gitpod.io/#https://github.com/dword-design/try-mocha-execa-subprocess">
+    </a><a href="https://david-dm.org/dword-design/try-mocha-subprocess-commonjs">
+      <img src="https://img.shields.io/david/dword-design/try-mocha-subprocess-commonjs" alt="Dependency status">
+    </a><img src="https://img.shields.io/badge/renovate-enabled-brightgreen" alt="Renovate enabled"><br/><a href="https://gitpod.io/#https://github.com/dword-design/try-mocha-subprocess-commonjs">
       <img
         src="https://gitpod.io/button/open-in-gitpod.svg"
         alt="Open in Gitpod"
@@ -58,17 +53,17 @@
 
 ```bash
 # npm
-$ npm install try-mocha-execa-subprocess
+$ npm install try-mocha-subprocess-commonjs
 
 # Yarn
-$ yarn add try-mocha-execa-subprocess
+$ yarn add try-mocha-subprocess-commonjs
 ```
 <!-- /INSTALL -->
 
 <!-- LICENSE/ -->
 ## Contribute
 
-Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/try-mocha-execa-subprocess/issues) or a [pull request](https://github.com/dword-design/try-mocha-execa-subprocess/pulls)! ⚙️
+Are you missing something or want to contribute? Feel free to file an [issue](https://github.com/dword-design/try-mocha-subprocess-commonjs/issues) or a [pull request](https://github.com/dword-design/try-mocha-subprocess-commonjs/pulls)! ⚙️
 
 ## Support
 
