@@ -1,11 +1,12 @@
 {
-  "name": "try-mocha-execa-subprocess",
+  "name": "try-mocha-subprocess-commonjs",
   "version": "1.0.0",
   "repository": "dword-design/try-mocha-execa-subprocess",
   "funding": "https://github.com/sponsors/dword-design",
   "license": "MIT",
   "author": "Sebastian Landwehr <info@sebastianlandwehr.com>",
   "main": "dist/index.js",
+  "private": true,
   "files": [
     "dist"
   ],
