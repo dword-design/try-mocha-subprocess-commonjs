@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@dword-design/functions": "^4.0.7",
-    "execa": "^5.0.0"
+    "execa": "^7.0.0"
   },
   "devDependencies": {
     "@dword-design/base": "^8.6.12"
