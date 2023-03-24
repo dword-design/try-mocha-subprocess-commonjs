@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/dword-design/try-mocha-subprocess-commonjs/compare/v1.0.0...v1.0.1) (2023-03-24)
+
+
+### Bug Fixes
+
+* update dependency @dword-design/functions to v4.1.0 ([2281843](https://github.com/dword-design/try-mocha-subprocess-commonjs/commit/2281843c31242a99c8053422c12a14c2138bcf83))
+
 # 1.0.0 (2022-01-28)
 
 

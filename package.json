@@ -1,6 +1,6 @@
 {
   "name": "try-mocha-subprocess-commonjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": true,
   "repository": "dword-design/try-mocha-subprocess-commonjs",
   "funding": "https://github.com/sponsors/dword-design",
